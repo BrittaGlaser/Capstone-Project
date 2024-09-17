@@ -24,4 +24,4 @@ Dieses Repository enthält:
 1. Jupyter Notebook (Analyse/Präsentation)
 2. Excel-Datei (Multiple Regression Analysis) 
 3. Power BI-Datei (Visualierung und zum selbst Ausprobieren)
-4. Datensatz (raw und bearbeitet)
+4. Datensätze (raw und bearbeitet)
